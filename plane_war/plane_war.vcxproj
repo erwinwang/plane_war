@@ -134,7 +134,6 @@
     <ClCompile Include="boss.c" />
     <ClCompile Include="bullet_new.c" />
     <ClCompile Include="collide.c" />
-    <ClCompile Include="fsm.c" />
     <ClCompile Include="global.c" />
     <ClCompile Include="level.c" />
     <ClCompile Include="list.c" />
@@ -161,7 +160,6 @@
     <ClInclude Include="res.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="sound.h" />
-    <ClInclude Include="sprite.h" />
     <ClInclude Include="time.h" />
     <ClInclude Include="ttf.h" />
   </ItemGroup>

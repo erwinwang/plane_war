@@ -1,3 +1,8 @@
-﻿  bullet_new.c
-C:\Users\Erwin\source\repos\plane_war\plane_war\bullet_new.c(12,9): warning C4013:  'memset' undefined; assuming extern returning int
-  plane_war.vcxproj -> C:\Users\Erwin\source\repos\plane_war\Debug\plane_war.exe
+﻿  plane_war.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\crtdbg.h(303,1): warning C4005: '_malloca': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\malloc.h(122): message : see previous definition of '_malloca'
+C:\Users\Erwin\Documents\GitHub\plane_war\plane_war\plane_war.c(31,37): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Erwin\Documents\GitHub\plane_war\plane_war\plane_war.c(84,1): warning C4026: function declared with formal parameter list
+C:\Users\Erwin\Documents\GitHub\plane_war\plane_war\plane_war.c(182,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Erwin\Documents\GitHub\plane_war\plane_war\plane_war.c(377,18): warning C4018: '<': signed/unsigned mismatch
+  plane_war.vcxproj -> C:\Users\Erwin\Documents\GitHub\plane_war\Debug\plane_war.exe

@@ -1,6 +1,6 @@
 #include <SDL.h>
 #include <SDL_image.h>
-#include "sprite.h"
+#include "sprite_new.h"
 
 struct Sprite *player = NULL;
 SDL_Renderer* rend = NULL;

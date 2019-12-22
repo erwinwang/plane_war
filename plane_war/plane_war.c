@@ -9,7 +9,7 @@
 #include <Windows.h>
 #include "bullet_new.h"
 #include "math.h"
-#include "sprite.h"
+#include "sprite_new.h"
 #include "sound.h"
 #include "level.h"
 #include "animate.h"
@@ -17,10 +17,9 @@
 #include "plane_war.h"
 #include "collide.h"
 #include "player.h"
-#include "fsm.h"
 #include "res.h"
 #include "boss.h"
-
+#include "fsm.h"
 #define _CRTDBG_MAP_ALLOC
 #include <stdlib.h>
 #include <crtdbg.h>

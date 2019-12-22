@@ -1,12 +1,11 @@
 #include <SDL.h>
 #include "math.h"
-#include "sprite.h"
+#include "sprite_new.h"
 #include "bullet_new.h"
 #include "collide.h"
 #include "player.h"
 #include "ttf.h"
 #include "sound.h"
-#include "fsm.h"
 #include "animate.h"
 #include "boss.h"
 
