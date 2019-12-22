@@ -1,0 +1,3 @@
+﻿  bullet_new.c
+C:\Users\Erwin\source\repos\plane_war\plane_war\bullet_new.c(12,9): warning C4013:  'memset' undefined; assuming extern returning int
+  plane_war.vcxproj -> C:\Users\Erwin\source\repos\plane_war\Debug\plane_war.exe
