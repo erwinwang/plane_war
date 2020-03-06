@@ -1,7 +1,7 @@
 #include <SDL.h>
 #include <SDL_image.h>
 #include <string.h>
-#include "sprite.h"
+#include "sprite_new.h"
 #include "res.h"
 
 struct SpriteManager* sprite_manager = NULL;
